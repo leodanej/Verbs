@@ -7,7 +7,30 @@ const verbs= [
     'Call',
     'Feel',
     'Find',
-    'Get'
+    'Get',
+    'Jump',
+    'Become',
+    'Begin',
+    'Break',
+    'Bring',
+    'Build',
+    'Buy',
+    'Can',
+    'Ask',
+    'Do',
+    'Give',
+    'Go',
+    'Have',
+    'Know',
+    'Leave',
+    'Look',
+    'Make',
+    'Say',
+    'See',
+    'Seem',
+    'Take',
+    'Think',
+    'Try'
 ];
 
 const verbos= [
@@ -19,7 +42,29 @@ const verbos= [
     'Llamar',
     'Sentir',
     'Encontrar',
-    'Tomar'
+    'Tomar',
+    'Brincar',
+    'Llegar a ser',
+    'Empezar',
+    'Romper',
+    'Traer',
+    'Construir',
+    'Comprar',
+    'Poder',
+    'Preguntar',
+    'Hacer',
+    'Dar',
+    'Tener',
+    'Saber',
+    'Dejar',
+    'Mirar',
+    'Hacer',
+    'Decir',
+    'Ver',
+    'Aparecer',
+    'Tomar',
+    'Pensar',
+    'Intentar'
 ]
 
 
