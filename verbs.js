@@ -30,7 +30,15 @@ const verbs= [
     'Seem',
     'Take',
     'Think',
-    'Try'
+    'Try',
+    'Show',
+    'Sign',
+    'Sit',
+    'Sleep',
+    'Spell',
+    'Spend',
+    'Stop',
+    'Study'
 ];
 
 const verbos= [
@@ -42,7 +50,7 @@ const verbos= [
     'Llamar',
     'Sentir',
     'Encontrar',
-    'Tomar',
+    'Dar',
     'Brincar',
     'Llegar a ser',
     'Empezar',
@@ -53,18 +61,28 @@ const verbos= [
     'Poder',
     'Preguntar',
     'Hacer',
-    'Dar',
+    'Obtener',
+    'Ir',
     'Tener',
     'Saber',
     'Dejar',
     'Mirar',
-    'Hacer',
+    'Hacer (material)',
     'Decir',
     'Ver',
     'Aparecer',
     'Tomar',
     'Pensar',
-    'Intentar'
-]
+    'Intentar',
+    'Mostrar',
+    'Firmar',
+    'Sentarse',
+    'Dormir',
+    'Deletrear',
+    'Gastar',
+    'Parar',
+    'Estudiar'
+
+];
 
 
